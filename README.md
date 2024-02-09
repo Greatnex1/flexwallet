@@ -1,3 +1,2 @@
-This project is a crypto exchange platform built in GOlang and using the echo framework, i'll b updating you further on how to run this application when pulled or cloned, tools i use and test cases carried out!
-
-Stay with me on this amazing jounrey.
+This project is a crypto exchange platform built in GOlang, using the echo framework, the gnanache server service for the transfer of crypto from one wallet address to the other, a orderbook functioin  and the use of match orders.
+I achieved a 89.5% test coverage on this project
